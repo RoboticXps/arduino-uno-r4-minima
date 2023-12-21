@@ -7,10 +7,23 @@ Code snippets for Arduino Uno R4 Minima Board
 </picture>
 </p>
 
-### Examples:
+Results for running a counter from 0 to 10000 on Uno R3 and Uno R4 Minima:
+
+#### Arduino Uno R3:
+```
+Elapsed time (s) on Uno R3: 
+61.18 sec.
+```
+
+#### Arduino Uno R4 Minima:
+```
+Elapsed time (s) on Uno R4: 
+1.36 sec.
+```
+
+### Code Examples:
 - [Arduino UNO R4 Minima RTC Example](uno_r4_rtc.ino)
 - Performance Test for [Arduino UNO R4 Minima](uno_r4_performance_test.ino) vs. [Arduino UNO R3](uno_r3_performance_test.ino)
-- [Arduino UNO R4 Minima with LCD I2C Screen]()
 
 Watch the implementation of this code on our [YouTube channel](https://www.youtube.com/@Roboticxps)
 
