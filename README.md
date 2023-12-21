@@ -14,7 +14,7 @@ Code snippets for Arduino Uno R4 Minima Board
 
 Watch the implementation of this code on our [YouTube channel](https://www.youtube.com/@Roboticxps)
 
-To get your own Arduino Nano USB-C, visit our online store: (Product Page)
+To get your own Arduino Uno R4 MINIMA, visit our online store: (Product Page)
 
 * [Arduino Uno R4 Minima](https://roboticx.ps/product/arduino-uno-r4-minima/)
 
