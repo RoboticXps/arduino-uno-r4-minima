@@ -32,6 +32,8 @@ To get your own Arduino Uno R4 MINIMA, visit our online store: (Product Page)
 
 * [Arduino Uno R4 Minima](https://roboticx.ps/product/arduino-uno-r4-minima/)
 
+If you want to see the code samples for Arduino Uno R4 WiFi, click [here](https://github.com/RoboticXps/arduino-uno-r4-wifi.git).
+
 ----
 
 Follow us on social media:
