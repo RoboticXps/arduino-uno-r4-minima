@@ -24,6 +24,7 @@ Elapsed time (s) on Uno R4:
 ### Code Examples:
 - [Arduino UNO R4 Minima RTC Example](uno_r4_rtc.ino)
 - Performance Test for [Arduino UNO R4 Minima](uno_r4_performance_test.ino) vs. [Arduino UNO R3](uno_r3_performance_test.ino)
+- Performance Test for [Arduino UNO R4 Minima with LCD I2C Screen to show results](uno_r4_lcd_i2c_screen.ino)
 
 Watch the implementation of this code on our [YouTube channel](https://www.youtube.com/@Roboticxps)
 
